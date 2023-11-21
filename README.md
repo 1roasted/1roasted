@@ -1,8 +1,8 @@
 <hr>
 Ventrix - Discord Bot
-<p align="center">
-   <img src="https://discords.com/bots/api/bot/1076807166696103976/widget?theme=dark">
-</p>
+<a href="https://top.gg/bot/1076807166696103976">
+  <img src="https://top.gg/api/widget/1076807166696103976.svg">
+</a>
 <hr>
 Me @ Discord
 <p align="center">
