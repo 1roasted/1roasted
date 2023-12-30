@@ -7,7 +7,7 @@ Currently Working on <b>Ventrix - Discord Bot</b>
 </a>
 </p>
 <hr>
-<b>Me @ Discord</b>
+Me @ <b></b>Discord</b>
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/921675266898657291">
 </p>
