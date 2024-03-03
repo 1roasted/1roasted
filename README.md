@@ -1,5 +1,5 @@
 <hr>
-Currently Working on <b>Ventrix - Discord Bot</b>
+Dev @ <b>Ventrix - Discord Bot</b>
 </hr>
 <p align="center">
 <a href="https://top.gg/bot/1076807166696103976">
