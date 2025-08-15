@@ -1,5 +1,5 @@
 <hr>
-Dev @ <b>Lirou (ventrix v5) - Discord Bot</b>
+Dev @ <b>Lirou - Discord Bot</b>
 </hr>
 <p align="center">
 <a href="https://top.gg/bot/1076807166696103976">
